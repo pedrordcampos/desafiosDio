@@ -25,5 +25,5 @@ O conteúdo desse projeto são os desafios elaborados pela DIO, proporcionando u
 https://github.com/RenanJPaula/RenanJPaula
 
 
-**Pedro Ricardo de Campos** - *Criando meu currículo vitae com a plataforma GitHub Pages* - [pedrordcampos]
+**Pedro Ricardo de Campos** [pedrordcampos]
 (https://github.com/pedrordcampos)
